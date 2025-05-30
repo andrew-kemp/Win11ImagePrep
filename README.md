@@ -33,7 +33,7 @@ A PowerShell GUI tool for preparing Windows 11 installation images with injected
 3. **Execute the script**:
    ```powershell
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-   .\WinImagePrep.ps1
+   .\WindowsImagePrepTool.ps1
    ```
 
 4. **Follow the GUI prompts:**
