@@ -92,7 +92,7 @@ Prepared images can be saved (under `C:\WinImagePrep\SavedImages`) for quick fut
 
 ## Known Limitations
 
-- Only supports x64 Windows 11 ISOs and standard install.wim layout.
+- Only supports x64 and ARM Windows 11 ISOs and standard install.wim layout.
 - Requires at least 14GB USB drive.
 - Not designed for legacy BIOS (FAT32/UEFI only).
 - Some anti-virus or endpoint protection software may interfere with file operations.
